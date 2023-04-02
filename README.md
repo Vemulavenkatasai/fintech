@@ -9,6 +9,7 @@ On a personal level, financial management is also important for achieving financ
 Financial markets, such as the stock market and bond market, play a critical role in the economy by allowing companies and governments to raise capital to fund their operations and investments. Financial institutions, such as banks and investment firms, provide services such as lending, wealth management, and investment advice.
 
 Overall, financial management is a crucial aspect of both personal and business life, and involves managing money and other assets to achieve financial goals and maximize returns while minimizing risk.
+
 Types of Loans:
 	* Business
 	* Education
@@ -41,6 +42,7 @@ Customer details:
 		-> Family
 			- Wife or husband name
 			- children name
+
 Business loan:
 Eligibility:
 	* First name (as per PAN)
@@ -79,6 +81,8 @@ Terms we offer:
 		-> 6 months to 1 year
 		-> 1 to 5 years
 		-> More then 5 years
+
+
 Education Loan:
 Student details:
 Documents:
@@ -98,6 +102,7 @@ Terms we offer:
 	* Interest rate**	  :1 - 1.5% per month
 	* Loan Tenure		  :1 month - 3 years
 	* Pre-Closure Fee***  :0 rupees
+
 
 Personal loan:
 Person details:
@@ -140,6 +145,8 @@ Terms we offer:
 	* Interest rate**	  :1.5 - 3% per month
 	* Loan Tenure		  :1 month - 5 years
 	* Pre-Closure Fee***  :0 rupees
+
+
 Agriculture loan:
 Documents:
 	* Duly fulled applicantion
