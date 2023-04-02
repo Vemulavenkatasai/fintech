@@ -214,5 +214,3 @@ Terms we offer:
 	* Interest rate**	  :1.5 - 3% per month
 	* Loan Tenure		  :1 month - 5 years
 	* Pre-Closure Fee***  :0 rupees
-	
-	
