@@ -10,8 +10,6 @@ Financial markets, such as the stock market and bond market, play a critical rol
 
 Overall, financial management is a crucial aspect of both personal and business life, and involves managing money and other assets to achieve financial goals and maximize returns while minimizing risk.
 
-
-
 Types of Loans:
 	* Business
 	* Education
@@ -57,8 +55,6 @@ Terms we offer:
 		-> 1 to 5 years
 		-> More then 5 years
 
-
-
 Education Loan:
 Student details:
 	* ID
@@ -99,7 +95,6 @@ Terms we offer:
 	* Loan Tenure		  :1 month - 3 years
 	* Pre-Closure Fee***  :0 rupees
 
-
 Personal loan:
 Person details:
 	* Full Name
@@ -139,8 +134,6 @@ Terms we offer:
 	* Interest rate**	  :1 - 1.5% per month
 	* Loan Tenure		  :1 month - 3 years
 	* Pre-Closure Fee***  :0 rupees
-
-
 
 Home loan:
 Customer details:
@@ -192,8 +185,6 @@ Terms we offer:
 	* Interest rate**	  :1.5 - 3% per month
 	* Loan Tenure		  :1 month - 5 years
 	* Pre-Closure Fee***  :0 rupees
-
-
 
 Agriculture loan:
 Person details:
