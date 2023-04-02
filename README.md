@@ -181,4 +181,38 @@ Terms we offer:
 	* Interest rate**	  :1.5 - 3% per month
 	* Loan Tenure		  :1 month - 5 years
 	* Pre-Closure Fee***  :0 rupees
-
+Agriculture loan:
+Person details:
+	* Name
+	* Phone number
+	* Email ID
+	* Address
+		- house number
+		- street name
+		- village name
+		- Sub Dist. name
+		- pin code
+		- Dist. name
+		- State
+		- Country
+	* Date of Birth
+	* Age
+	* Aadhar number
+	* Father name
+	* Mother name
+	* Education datails
+	* any other business or work
+	
+Documents:
+	* Duly fulled applicantion
+	* KYC documents
+	* Land/assert documents
+	* Security PDC
+	* Agricultural land documents
+Terms we offer:
+	* Loan Amount		  :25 Lakh - 50 Lakhs
+	* Interest rate**	  :1.5 - 3% per month
+	* Loan Tenure		  :1 month - 5 years
+	* Pre-Closure Fee***  :0 rupees
+	
+	
