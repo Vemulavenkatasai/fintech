@@ -15,6 +15,32 @@ Types of Loans:
 	* Student
 	* Home
 	* Agriculture
+	
+Customer details:
+	* Full Name
+	* Phone number
+	* Email ID
+	* Address
+		- house number
+		- street name
+		- village name
+		- Sub Dist. name
+		- pin code
+		- Dist. name
+		- State
+		- Country
+	* Date of Birth
+	* Age
+	* Aadhar number
+	* Father name
+	* Mother name
+	* Education datails
+	* work
+	* Single or family
+		-> Singal
+		-> Family
+			- Wife or husband name
+			- children name
 Business loan:
 Eligibility:
 	* First name (as per PAN)
@@ -55,26 +81,6 @@ Terms we offer:
 		-> More then 5 years
 Education Loan:
 Student details:
-	* ID
-	* Full Name
-	* Phone number
-	Email ID
-	* Address
-		- house number
-		- street name
-		- village name
-		- Sub Dist. name
-		- pin code
-		- Dist. name
-		- State
-		- Country
-	* Date of Birth
-	* Age
-	* Aadhar number
-	* Father name and aadhar number
-	* Mother name and aadhar number
-	* Education datails
-	* annual income of parent
 Documents:
 	* KYC Documents
 	* Mark sheets of 10th, 12th, graduation and entrance exams
@@ -95,30 +101,6 @@ Terms we offer:
 
 Personal loan:
 Person details:
-	* Full Name
-	* Phone number
-	* Email ID
-	* Address
-		- house number
-		- street name
-		- village name
-		- Sub Dist. name
-		- pin code
-		- Dist. name
-		- State
-		- Country
-	* Date of Birth
-	* Age
-	* Aadhar number
-	* Father name
-	* Mother name
-	* Education datails
-	* work
-	* Single or family
-		-> Singal
-		-> Family
-			- Wife or husband name
-			- children name
 Documents:
 	* Filled and signed personal loan application form
 	* 3 passport size photos
@@ -134,31 +116,6 @@ Terms we offer:
 	* Pre-Closure Fee***  :0 rupees
 
 Home loan:
-Customer details:
-	* Full Name
-	* Phone number
-	* Email ID
-	* Address
-		- house number
-		- street name
-		- village name
-		- Sub Dist. name
-		- pin code
-		- Dist. name
-		- State
-		- Country
-	* Date of Birth
-	* Age
-	* Aadhar number
-	* Father name
-	* Mother name
-	* Education datails
-	* work
-	* Single or family
-		-> Singal
-		-> Family
-			- Wife or husband name
-			- children name
 Documents:
 -> ID proof
 	* Passport
@@ -184,27 +141,6 @@ Terms we offer:
 	* Loan Tenure		  :1 month - 5 years
 	* Pre-Closure Fee***  :0 rupees
 Agriculture loan:
-Person details:
-	* Name
-	* Phone number
-	* Email ID
-	* Address
-		- house number
-		- street name
-		- village name
-		- Sub Dist. name
-		- pin code
-		- Dist. name
-		- State
-		- Country
-	* Date of Birth
-	* Age
-	* Aadhar number
-	* Father name
-	* Mother name
-	* Education datails
-	* any other business or work
-	
 Documents:
 	* Duly fulled applicantion
 	* KYC documents
@@ -215,4 +151,4 @@ Terms we offer:
 	* Loan Amount		  :25 Lakh - 50 Lakhs
 	* Interest rate**	  :1.5 - 3% per month
 	* Loan Tenure		  :1 month - 5 years
-	* Pre-Closure Fee***  :0 rupees
+	* Pre-Closure Fee***  	  :0 rupees
