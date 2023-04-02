@@ -1,5 +1,3 @@
-Digital finance
-Overview
 Financial refers to anything related to finance, which involves the management of money and other assets. Finance is an important aspect of both personal and business life, and encompasses a wide range of activities, including budgeting, investing, lending, borrowing, and financial planning.
 
 In the business world, financial management is essential for the success of any company. It involves managing the company's financial resources, such as capital, assets, and investments, in a way that maximizes profitability and minimizes risk. This may include financial analysis, budgeting, forecasting, and managing cash flow.
